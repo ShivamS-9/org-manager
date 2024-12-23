@@ -77,6 +77,3 @@ This system streamlines essential organizational tasks, such as inventory manage
 5. Access the application at:
    ``` bash
    http://localhost:3000
-
-
-   
